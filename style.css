@@ -1,0 +1,44 @@
+/* p{
+    color: brown;
+    width: 500px;
+    border: 2px solid black;
+} */
+
+html{
+    font-size: 25px;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: chocolate;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: darkturquoise;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    color: green;
+}
+
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+figure{
+    width: 5%;
+    height: 5;
+}
